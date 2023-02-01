@@ -1,0 +1,156 @@
+﻿Codice contratto origine;Codice livello origine;ProfiloLivello
+900;1;Collaboratore
+950;1;Professionista
+1000;1;Stagista
+H822;41;IV - Collaboratore ter
+H822;42;IV - Funzionario amministrativo
+H822;51;V - Collaboratore ter
+H822;52;V - Funzionario amministrativo
+H822;53;V - Collaboratore di amministrazione
+H822;61;VI - Collaboratore ter
+H822;X0H;Collaboratore ter
+H822;X60;VI - Operatore tecnico
+H822;62;VI - Operatore di amministrazione
+H822;63;VI - Collaboratore di amministrazione
+H822;71;VII - Operatore tecnico
+H822;72;VII - Operatore di amministrazione
+H822;73;VII - Collaboratore di amministrazione
+H822;81;VIII - Ausiliario tecnico
+H822;82;VIII - Operatore tecnico
+H822;83;VIII - Operatore di amministrazione
+H822;DDV;Direttore Divisione r.e.
+H822;ISP;Ispettore Generale r.e.
+H822;R11;I - Dirigente di ricerca - Anz. 1
+H822;R12;I - Dirigente di ricerca - Anz. 2
+H822;R13;I - Dirigente di ricerca - Anz. 3
+H822;R14;I - Dirigente di ricerca - Anz. 4
+H822;R15;I - Dirigente di ricerca - Anz. 5
+H822;R16;I - Dirigente di ricerca - Anz. 6
+H822;R17;I - Dirigente di ricerca - Anz. 7
+H822;R21;II - Primo ricercatore - Anz. 1
+H822;R22;II - Primo ricercatore - Anz. 2
+H822;R23;II - Primo ricercatore - Anz. 3
+H822;R24;II - Primo ricercatore - Anz. 4
+H822;R25;II - Primo ricercatore - Anz. 5
+H822;R26;II - Primo ricercatore - Anz. 6
+H822;R27;II - Primo ricercatore - Anz. 7
+H822;R31;III - Ricercatore - Anz. 1
+H822;R32;III - Ricercatore - Anz. 2
+H822;R33;III - Ricercatore - Anz. 3
+H822;R34;III - Ricercatore - Anz. 4
+H822;R35;III - Ricercatore - Anz. 5
+H822;R36;III - Ricercatore - Anz. 6
+H822;R37;III - Ricercatore - Anz. 7
+H822;T11;I - Dirigente tecnologo - Anz. 1
+H822;T12;I - Dirigente tecnologo - Anz. 2
+H822;T13;I - Dirigente tecnologo - Anz. 3
+H822;T14;I - Dirigente tecnologo - Anz. 4
+H822;T15;I - Dirigente tecnologo - Anz. 5
+H822;T16;I - Dirigente tecnologo - Anz. 6
+H822;T17;I - Dirigente tecnologo - Anz. 7
+H822;T21;II - Primo tecnologo - Anz. 1
+H822;T22;II - Primo tecnologo - Anz. 2
+H822;T23;II - Primo tecnologo - Anz. 3
+H822;T24;II - Primo tecnologo - Anz. 4
+H822;T25;II - Primo tecnologo - Anz. 5
+H822;T26;II - Primo tecnologo - Anz. 6
+H822;T27;II - Primo tecnologo - Anz. 7
+H822;T31;III - Tecnologo - Anz. 1
+H822;T32;III - Tecnologo - Anz. 2
+H822;T33;III - Tecnologo - Anz. 3
+H822;T34;III - Tecnologo - Anz. 4
+H822;T35;III - Tecnologo - Anz. 5
+H822;T36;III - Tecnologo - Anz. 6
+H822;T37;III - Tecnologo - Anz. 7
+H822;X01;Aiuto Segretario
+H822;X04;Archivista Dattilografo
+H822;X05;Assistente al Ruolo Amministrativo
+H822;X06;Categoria II - Grado II
+H822;X07;Categoria II - Grado VI
+H822;X08;Categoria III Grado V
+H822;X09;Collaboratore del Ruolo Amministrativo
+H822;X0A;Conducente di Automezzi
+H822;X0B;Primo Applicato - Cat. III
+H822;X0D;Allievo Ricercatore Grado R/6
+H822;X0E;Collaboratore Ricercatore tecnico-professionale
+H822;X0E;Collaboratore del Ruolo Tecnico Professionale
+H822;X0F;Assistente del Ruolo Tecnico Professionale
+H822;X0G;Agente del Ruolo Tecnico Professionale
+H822;X0I;Collaboratore Professionale E.R.
+H822;X0J;Assistente Tecnico
+H822;X0M;Operatore Specializzato
+H822;X0N;Operatore del Ruolo Tecnico Professionale
+H822;X0R;Terzo Specialista - Cat. III
+H822;X3O;III - Primo Specialista - Cat. III
+H822;X43;IV - Applicato - Cat. III
+H822;X44;IV - Archivista
+H822;X4Q;IV - Secondo Specialista - Cat. III
+H822;X51;V - Aiuto Segretario
+H822;X54;V - Archivista Dattilografo
+H822;X5C;V - Stenodattilografo
+H822;X5M;V - Operatore Specializzato
+H822;X5N;V - Operatore del Ruolo Tecnico Professionale
+H822;X5P;V - Ricercatore Progettista Tecnico - Cat. I
+H822;X5R;V - Terzo Specialista - Cat. III
+H822;X5S;V - Terzo Tecnico - Cat. II
+H822;X61;VI - Aiuto Segretario
+H822;X62;VI - Allievo Segretario - Cat. II
+H822;X65;VI - Assistente di Amministrazione
+H822;X67;VI - Categoria II - Grado VI
+H822;X6H;VI - Allievo Tecnico - Cat. II
+H822;X6I;VI - Collaboratore Professionale E.R.
+H822;X6J;VI - Assistente Tecnico (ad personam)
+H822;X6K;VI - Assistente Sanitario
+H822;X6M;VI - Operatore Specializzato
+H822;X71;VII - Collaboratore ter
+H822;X75;VII - Assistente di Amministrazione
+H822;X7I;VII - Collaboratore Professionale E.R.
+H822;X7J;VII - Assistente Tecnico
+H822;X7M;VII - Operatore Specializzato
+H822;X8M;VIII - Operatore Specializzato
+H822;X8N;VIII - Operatore del Ruolo Tecnico Professionale
+H822;XA1;X - Collaboratore Tecnico E.R.
+H822;XAI;X - Collaboratore Professionale E.R.
+H822;XAJ;X - Ausiliario Tecnico
+H822;XAL;X - Consulente Professionale
+H852;D1D;Dirigente I fascia a tempo determinato
+H852;D1P;Dirigente I fascia
+H852;D2D;Dirigente II fascia a tempo determinato
+H852;D2P;II - Dirigente di II fascia
+H852;DDV;Direttore Divisione r.e.
+H852;ISP;Ispettore Generale r.e.
+H905;90;Direttore Generale
+H910;100;Organi statuari e assimilati
+H915;01A;1A
+H915;01B;1B
+H915;01C;1C
+H915;01D;1D
+H915;01E;1E
+H915;01F;1F
+H915;01G;1G
+H915;01H;1H
+H915;01I;1I
+H915;01L;1L
+H915;01M;1M
+H915;01N;1N
+H915;01O;1O
+H915;01P;1P
+H915;01Q;1Q
+H915;02A;2A
+H915;02B;2B
+H915;02C;2C
+H915;02D;2D
+H915;02E;2E
+H915;02F;2F
+H915;02G;2G
+H915;02H;2H
+H915;02I;2I
+H915;02L;2L
+H915;02M;2M
+H915;1R1;1R1
+H915;1R2;1R2
+H915;1R3;1R3
+H915;2R1;2R1
+H915;2R2;2R2
+H915;ZZZ;Borse di studio / Assegno di Ricerca
+H822;X5X;V - Aiuto Applicato - Cat- III
