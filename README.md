@@ -1,1 +1,3 @@
-# PrimaProvaCondivisioneNotebook - Shift + Invio per eseguire il codice
+# Notebook per ricevere le informazioni TD di contratti ora a TI
+
+Run All Cells
